@@ -56,7 +56,7 @@
 | 1 & 2         | 0.3612          |
 
 **Similarity Matrix Heatmap:**  
-![Similarity Matrix](docs/similarity_heatmap.png)
+![Similarity Matrix](outputs/similarity_matrix.png)
 
 ---
 
