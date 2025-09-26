@@ -1,0 +1,4 @@
+Top 3 most similar document pairs:
+Document 3 & Document 4 → Similarity: 0.4580
+Document 4 & Document 3 → Similarity: 0.4580
+Document 1 & Document 2 → Similarity: 0.3612
